@@ -20,7 +20,6 @@
           <input type="submit" value="Salvar" class="btn">
           <input type="reset" value ="Limpar" class= "btn">
           <br><br>
-
           Nome<br>
           <input type="text" name="nome" class="campo" maxlength="40" autofocus><br>
           Nome da sua empresa<br>
